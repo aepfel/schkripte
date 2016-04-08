@@ -1,0 +1,4 @@
+#!/bin/bash
+if [ "$TERM" != "screen" ] && [ "$SSH_CONNECTION" != "" ]; then
+   /usr/bin/screen -A -S sshscreen -d -R
+fi

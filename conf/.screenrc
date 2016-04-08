@@ -1,0 +1,8 @@
+startup_message off
+defscrollback 1000
+backtick 1 240 240 /home/ae/gits/schkripte/ext_ip.sh
+backtick 2 60 60 /home/ae/gits/schkripte/free_mem.sh
+hardstatus alwayslastline
+hardstatus string '%{= kG}%-Lw%{= kW}%50> %n*%f %t%{= kG}%+Lw%< %{= kG}%-= %2` | %1` | %D %m/%d/%y | %c%{-}'
+
+#caption always "%{bw}%1` | %{bw}%c %D | %{-}%-Lw%{rw}%50>%{rW}%n%f* %t %{-}%+Lw%<"
