@@ -1,0 +1,12 @@
+ctrl+a startet befehlsmodus
+
+n,&nbsp > nächster screen
+p > vorheriger
+c > neuer screen
+A > screen umbenennen
+tab > naechstes fenster
+| > neuer vertikaler split(fenster)
+S > neuer horizontaler split
+X > aktuelle region loeschen
+Q > alle außer aktuelle region loeschen
+
