@@ -1,1 +1,2 @@
 dig +noall +answer -x 192.168.171.9 ==> reverse dns lookup beim standartserver
+grep -r -i 'endein textausschni' ./* ==> alle dateien im aktuellen verzeichnisbaum listen
