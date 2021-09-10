@@ -251,8 +251,9 @@ done
 
 
 #Todo:
-#	- parametrify folders, endpoints, and common startingoptions
+#- parametrify folders, endpoints, and common startingoptions
 # - add ncurses and stuff
 # - much more
 # - do some ai.(mark_plagiats="RGB",retranslate(l=commonpython),take_care_off=["refractors","comments","tests"]) on everything
 # - locale
+# - installer and version manager
